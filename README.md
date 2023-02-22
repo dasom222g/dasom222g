@@ -29,6 +29,12 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="30"/> </a> 
 </p>
 
+<div>
+  <img src="https://img.shields.io/github/followers/dasom222g?style=social" alt="github followers" height="24" />
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCRAPX1FnLmdVrT8T7YKRMtw?style=social" alt="youtube subscribers" height="24" />
+  <img src="https://img.shields.io/youtube/channel/views/UCRAPX1FnLmdVrT8T7YKRMtw?style=social" alt="youtube views" height="24" />
+</div>
+
 <h3 align="left">📈 my github stats</h3>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasom222g&show_icons=true&locale=en" alt="dasom222g" /></p>
