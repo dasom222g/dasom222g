@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **dasom228@gmail.com**
 
-<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasom222g&label=Profile%20views&color=0e75b6&style=flat" alt="dasom222g" /> </p>
 
 <h3 align="left">languages and tools</h3>
 <br />
@@ -85,6 +85,8 @@
 <h3 align="left">📈 my github stats</h3>
 <br />
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasom222g&show_icons=true&theme=gotham&locale=en" alt="dasom222g" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasom222g&show_icons=true&theme=gotham&locale=en" alt="dasom222g" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasom222g&theme=gotham" alt="dasom222g" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasom222g&theme=gotham" alt="dasom222g" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasom222g&" alt="dasom222g" /></p>
