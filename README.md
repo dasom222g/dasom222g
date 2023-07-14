@@ -4,7 +4,7 @@
   <img align="left" alt="dasom's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://linkedin.com/in/다솜-김-611008233" target="_blank">
-  <img align="left" alt="dasom's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="dasom's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 <a href="https://www.youtube.com/@chutzrit" target="_blank">
   <img align="left" alt="dasom's Youtube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
