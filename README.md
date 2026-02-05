@@ -85,6 +85,14 @@
 <h3 align="left">📈 my github stats</h3>
 <br />
 
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasom222g&show_icons=true&theme=gotham&locale=en" alt="dasom222g" /></p>
+<p>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=vue-dark&fontFamily=&preferLogin=false">
+    <img  alt="dasom222g's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/dasom222g?cardType=github&theme=vue-dark&fontFamily=&preferLogin=false" />
+  </a>
+</p>
 
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasom222g&theme=gotham" alt="dasom222g" /></p>
+<p>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=dasom222g&theme=vue-dark" alt="GitHub Streak" />
+  </a>
+</p>
