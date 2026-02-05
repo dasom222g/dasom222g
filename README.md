@@ -85,14 +85,12 @@
 <h3 align="left">📈 my github stats</h3>
 <br />
 
-<p>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=vue-dark&fontFamily=&preferLogin=false">
-    <img  alt="dasom222g's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/dasom222g?cardType=github&theme=vue-dark&fontFamily=&preferLogin=false" />
-  </a>
-</p>
+<!-- Arial -->
+<!-- github stats demo -->
+![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dasom222g?cardType=github&theme=vue-dark&fontFamily=Arial&preferLogin=false)
 
-<p>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=dasom222g&theme=vue-dark" alt="GitHub Streak" />
-  </a>
-</p>
+<!-- github streak stats -->
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=dasom222g&theme=vue-dark)](https://git.io/streak-stats)
+
+
+
