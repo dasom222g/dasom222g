@@ -9,6 +9,9 @@
 <a href="https://www.youtube.com/@chutzrit" target="_blank">
   <img align="left" alt="dasom's Youtube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
+<a href="https://chutzrit.tistory.com" target="_blank">
+  <img align="left" alt="dasom's Blog" width="22px" src="https://github.com/user-attachments/assets/0fb722f2-eb11-4251-b0de-e81d8a20da35" />
+</a>
 
 <br />
 
