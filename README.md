@@ -1,10 +1,10 @@
 ### About me
 
 <a href="https://instagram.com/puddingi228" target="_blank">
-  <img align="left" alt="dasom's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/instagram.svg" />
+  <img align="left" alt="dasom's Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/E4405F" />
 </a>
 <a href="https://linkedin.com/in/다솜-김-611008233" target="_blank">
-  <img align="left" alt="dasom's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
+  <img align="left" alt="dasom's LinkedIN" width="22px" src="https://api.iconify.design/mdi:linkedin.svg?color=%230A66C2" />
 </a>
 <a href="https://www.youtube.com/@chutzrit" target="_blank">
   <img align="left" alt="dasom's Youtube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
