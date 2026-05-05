@@ -30,6 +30,20 @@
 <br />
 
 <p align="left">
+  
+  <a href="https://openai.com" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png"/>
+      <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" alt="openai" height="30"/>
+    </picture>
+  </a>
+  <a href="https://claude.ai" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/anthropic.png"/>
+      <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/anthropic.png" alt="anthropic" height="30"/>
+    </picture>
+  </a>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30"/>
   </a>
