@@ -1,7 +1,7 @@
 ### About me
 
 <a href="https://instagram.com/puddingi228" target="_blank">
-  <img align="left" alt="dasom's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="dasom's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/instagram.svg" />
 </a>
 <a href="https://linkedin.com/in/다솜-김-611008233" target="_blank">
   <img align="left" alt="dasom's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
